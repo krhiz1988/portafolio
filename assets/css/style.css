@@ -1,0 +1,71 @@
+* body {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.bg-nav {
+    background-color: #134E7C;
+    color: #ffffff;
+}
+
+.header-padding {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.header-img {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('../img/header.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.header-text {
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    color: #ffffff;
+    top: 500px;
+}
+
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    background-color: #373a3c !important;
+    border-radius: 50% !important;
+}
+
+.trabajos {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.text-trabajos {
+    color: #ffffff;
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.bg-trabajos {
+    background-color: #134E7C;
+}
+
+.bg-footer {
+    background-color: black;
+    height: 100px;
+    padding: 35px;
+}
+
+
+
+.text-contacto h1 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+
+}
+
+.icon-sociales i {
+    color: #ffffff;
+}
