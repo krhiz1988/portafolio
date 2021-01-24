@@ -29,6 +29,11 @@
     top: 500px;
 }
 
+.seccion-miexperiencia h1 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+}
+
 .carousel-indicators li {
     width: 10px;
     height: 10px;
